@@ -22,6 +22,6 @@ Compile `main.c` to get the command exectable, move it to `/usr/bin/`in linux to
   | world
 
 
-  #TODO
+#TODO
 
   - make a bash install script later kkkkk
