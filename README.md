@@ -10,13 +10,13 @@ Compiler `main.c` to get the command exectable, move it to `/usr/bin/`in linux t
 
 `CRun examples/test.c`
 
-|  hello world
+  |  hello world
 
 `Crun examples/test_with_args.c hey`
 
-| hey
+  | hey
 
 `Crun examples/test_with_multiple_args.c/ hey world`
 
-| hey
-| world
+  | hey  
+  | world
